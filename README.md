@@ -180,14 +180,3 @@ Edit `stock_analyzer/settings.py` to:
 - Verify all dependencies are installed: `pip install -r requirements.txt`
 - Check Python version compatibility
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## Support
-
-For questions or issues, please open an issue in the project repository.
